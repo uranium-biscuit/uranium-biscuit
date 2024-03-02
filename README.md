@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=uranium-biscuit&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uranium-biscuit&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uranium-biscuit&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![Metrics](https://metrics.lecoq.io/uranium-biscuit?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FBangkok)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=uranium-biscuit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
